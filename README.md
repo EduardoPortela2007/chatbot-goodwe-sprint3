@@ -61,7 +61,7 @@ A chave da API não deve ser colocada diretamente no código nem enviada para o 
 
 ## Arquivos
 
-- `GoodWe_Sprint03` - código principal do projeto
+- `goodwe_sprint03.ipynb` - código principal do projeto
 - `relatorio_modelos.md` - comparação entre os modelos
 - `testes.md` - testes realizados
 - `Relatorio_Evolucao_GoodWe_Sprint03.pdf` - relatório de evolução
